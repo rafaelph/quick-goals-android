@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Quick Goals</string>
+    <string name="icon_for_the_task">Icon for the task</string>
 </resources>
